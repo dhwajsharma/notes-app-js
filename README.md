@@ -1,2 +1,2 @@
 # notes-app-js
-## Basic notes taking app.
+## Basic notes taking app with markdown.
